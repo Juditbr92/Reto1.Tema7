@@ -1,8 +1,6 @@
 // declarar las funciones de la calculadora por separado (suma, resta, producto y division)
 
-function calculadoraSuma(op1, op2){
-    console.log(op1 + op2);
-}
+
 
 function calculadoraResta(op1, op2){
     console.log(op1 - op2);
